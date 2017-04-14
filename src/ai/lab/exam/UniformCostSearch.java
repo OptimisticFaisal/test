@@ -95,9 +95,9 @@ public class UniformCostSearch {
 	private void printPath() {
 		// TODO Auto-generated method stub
 		Collections.reverse(path);
-		System.out.println();
-		System.out.println("Path from souce to destination");
-		System.out.println(path);
+		//System.out.println();
+		//System.out.println("Path from souce to destination");
+		//System.out.println(path);
 		
 	}
 
@@ -121,6 +121,7 @@ public class UniformCostSearch {
 		ucs.addEdge(6, 4, 4);
 		ucs.uniformCost();
 		System.out.println("Hello");
+		System.out.println("Testing push command");
 
 	}
 
