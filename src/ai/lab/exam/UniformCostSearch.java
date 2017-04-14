@@ -122,6 +122,7 @@ public class UniformCostSearch {
 		ucs.uniformCost();
 		System.out.println("Hello");
 		System.out.println("Testing push command");
+		System.out.println("Testing clone command");
 
 	}
 
