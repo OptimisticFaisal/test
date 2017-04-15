@@ -100,6 +100,9 @@ public class UniformCostSearch {
 		//System.out.println(path);
 		
 	}
+	public void printResult(){
+		System.out.println("Testing Branching");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
